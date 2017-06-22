@@ -1,6 +1,6 @@
 # git.cheat
 ## Some Basic Git commands:
-
+```
 pwd: shows what directory you are currently in.
 ls, ls-l, ls-la, ls-lah: list the contents of present working directory.
 cd: change directory
