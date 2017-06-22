@@ -6,5 +6,5 @@ ls, ls-l, ls-la, ls-lah: list the contents of present working directory.
 cd: change directory
 touch: used to create file.
 nano: text editor; there is also emac and vim.
-
+new
 
