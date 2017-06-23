@@ -19,3 +19,13 @@ mv: move file. mv <file> <path>; also, can rename file.
   -f: force overwriting
   -i: interactive overwriting
   -v: verbose
+cp: copy. cp <file> <newfilename>
+  -n: no overwriting
+  -f: force overwriting
+  -i: interactive overwriting
+  -v: verbose
+rm: only removes file, completely.
+rmdir: remove directory. Only remove directories that are empty.
+rm -R: remove non empty directories. Really powerful.
+
+
