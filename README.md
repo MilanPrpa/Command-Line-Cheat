@@ -5,6 +5,9 @@ pwd: shows what directory you are currently in.
 ls, ls-l, ls-la, ls-lah: list the contents of present working directory.
 cd: change directory
 touch: used to create file.
+echo $0: shows what shell you are using.
+echo $SHELL; type shell name to move into it.
+
 nano: text editor; there is also emac and vim; 
   ctrl-x to save changes.
 cat: read files; also concatenates files.
@@ -27,5 +30,11 @@ cp: copy. cp <file> <newfilename>
 rm: only removes file, completely.
 rmdir: remove directory. Only remove directories that are empty.
 rm -R: remove non empty directories. Really powerful.
+Search Files & Directories:
+  (find path expression)===> find ~/Desktop <name>
+whoami: indicates who the user is.
+chown milan:staff <file name>::
+
+
 
 
