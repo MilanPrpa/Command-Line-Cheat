@@ -34,6 +34,10 @@ Search Files & Directories:
   (find path expression)===> find ~/Desktop <name>
 whoami: indicates who the user is.
 chown milan:staff <file name>::
+Permissions = read... User Group Other
+              write
+              execute
+chmod: change mode.
 
 
 
