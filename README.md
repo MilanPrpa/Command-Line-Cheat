@@ -38,6 +38,33 @@ Permissions = read... User Group Other
               write
               execute
 chmod: change mode.
+sudo = substitute user and do.
+***Command Basics***
+/bin/: store files.
+whereis <name of what you are looking for>: tells you where you can find programs.
+whatis: explains what program does.
+-v, --version, --help: can tell you what version or give extra help.
+EXIT: q, x, ctrl + q,x
+FORCE QUIT: ctrl + c
+$PATH
+***System Info Commands***
+date:
+uptime:
+users:
+uname: operating system name. MAC unix version is Darwin.
+uname -mnrsvp:
+*** Disk Information ***
+df:
+df -h: the -h means humanize.
+du: 
+** Viewing Processes **
+ps u: shows user
+ps aux: more info.
+top: monitoring processt
+ctrl + n: new terminal
+kill <process id# >: kill process; kill -9 <process id# >: the -9 forces the kill.
+
+
 
 
 
