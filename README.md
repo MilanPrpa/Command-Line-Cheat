@@ -4,6 +4,7 @@
 pwd: shows what directory you are currently in.
 ls, ls-l, ls-la, ls-lah: list the contents of present working directory.
 cd: change directory
+open -a 'google chrome' <browser>: opens browser from terminal.
 touch: used to create file.
 echo $0: shows what shell you are using.
 echo $SHELL; type shell name to move into it.
@@ -63,6 +64,20 @@ ps aux: more info.
 top: monitoring processt
 ctrl + n: new terminal
 kill <process id# >: kill process; kill -9 <process id# >: the -9 forces the kill.
+** Text File Helpers ** file that only has text. 
+wc: word count.
+sort: sort lines in a file.
+** Utility Programs **
+cal: current month.
+cal -y <year>: full calendar.
+bc: calculator, quit to exit.
+units: converts units of measurment.
+  *ctrl + c to exit units.*
+** Command History **
+history:
+!<#>: run that command line.
+
+
 
 
 
