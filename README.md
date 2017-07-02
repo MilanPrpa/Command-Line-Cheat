@@ -12,6 +12,7 @@ echo $SHELL; type shell name to move into it.
 nano: text editor; there is also emac and vim; 
   ctrl-x to save changes.
 cat: read files; also concatenates files.
+  ctrl + c, kills cat.
 more:
 less: shows less of the file instead of the entire file.
 man: manual on different commands.
@@ -67,6 +68,7 @@ kill <process id# >: kill process; kill -9 <process id# >: the -9 forces the kil
 ** Text File Helpers ** file that only has text. 
 wc: word count.
 sort: sort lines in a file.
+ls -la -tr: sort file to most recent.
 ** Utility Programs **
 cal: current month.
 cal -y <year>: full calendar.
@@ -76,8 +78,12 @@ units: converts units of measurment.
 ** Command History **
 history:
 !<#>: run that command line.
-
-
+** Output to a file **
+  echo 'some text' > index.html: this outputs 'some text' to selected file; *it does overwrite and replaces previwous content.*
+** Append to a file **
+echo 'some text' >> index.html: the >> appends to the file without erasing everything.
+** Piping ** operator pipes into a command.
+echo 'hello world' | wc: gives word count with piping character.
 
 
 
