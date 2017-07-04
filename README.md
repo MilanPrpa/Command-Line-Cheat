@@ -6,6 +6,9 @@ ls, ls-l, ls-la, ls-lah: list the contents of present working directory.
 cd: change directory
 open -a 'google chrome' <browser>: opens browser from terminal.
 touch: used to create file.
+** MOVING AND COPYING FILES **
+mv(or cp) <file name> <folder name>: this works in the directory you are currently in.
+mv(or cp) <file name> ~/<other directory>/folder: this moves to another directory outside your current directory.
 echo $0: shows what shell you are using.
 echo $SHELL; type shell name to move into it.
 
