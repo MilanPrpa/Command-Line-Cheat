@@ -1,5 +1,5 @@
-# git.cheat
-## Some Basic Git commands:
+# Command Line Cheat
+## Comman Line:
 ```
 pwd: shows what directory you are currently in.
 ls, ls-l, ls-la, ls-lah: list the contents of present working directory.
