@@ -1,5 +1,5 @@
 # Command Line Cheat
-## Comman Line:
+## Command Line:
 ```
 pwd: shows what directory you are currently in.
 ls, ls-l, ls-la, ls-lah: list the contents of present working directory.
