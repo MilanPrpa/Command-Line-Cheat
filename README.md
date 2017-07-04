@@ -89,6 +89,8 @@ PS1='<type something>': changes command prompt.
 ** UNIX POWER TOOLS **
   **GREP, REGULAR EXPRESSIONS**
 grep devon <some file>: it will search for everything with devon. If you use dev, it will find everything with dev.
+** REGULAR EXPRESSIONS: FINDING PATTERNS **
+
 
 
 
