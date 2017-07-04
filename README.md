@@ -84,6 +84,12 @@ history:
 echo 'some text' >> index.html: the >> appends to the file without erasing everything.
 ** Piping ** operator pipes into a command.
 echo 'hello world' | wc: gives word count with piping character.
+** CUSTOMIZE COMMAND **
+PS1='<type something>': changes command prompt.
+** UNIX POWER TOOLS **
+  **GREP, REGULAR EXPRESSIONS**
+grep devon <some file>: it will search for everything with devon. If you use dev, it will find everything with dev.
+
 
 
 
