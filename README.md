@@ -93,7 +93,8 @@ PS1='<type something>': changes command prompt.
   **GREP, REGULAR EXPRESSIONS**
 grep devon <some file>: it will search for everything with devon. If you use dev, it will find everything with dev.
 ** REGULAR EXPRESSIONS: FINDING PATTERNS **
-
+tr: translating characters
+  example = echo 'a,b,c' | tr ',' '-'
 
 
 
