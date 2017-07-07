@@ -96,9 +96,14 @@ grep devon <some file>: it will search for everything with devon. If you use dev
 tr: translating characters
   example = echo 'a,b,c' | tr ',' '-'
 
+``` 
 
 
-
+## MAC COMMAND LINE
+```
+open -a <name of app>: the -a stands for application.
+open http://whatever.com: this will open website in default browser.
+alias google = 'open -a google.com': this sets alias so you type less.
 
 
 
