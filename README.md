@@ -104,6 +104,18 @@ tr: translating characters
 open -a <name of app>: the -a stands for application.
 open http://whatever.com: this will open website in default browser.
 alias google = 'open -a google.com': this sets alias so you type less.
+** SCREEN CAPTURE **
+screencapture ~/Desktop/screen_capture.png:
+** SHUT DOWN, REBOOT, SLEEP **
+  -h,halt; -r,reboot; -s,sleep then use 'now'
+sudo shutdown -s now:
+** text to speech **
+say 'something here':
+say 'hello' -v Zarvox:
+** METADATA **
+mdfind 'something':
+** APPLE SCRIPT **
+osascript -e <some command>:
 
 
 
