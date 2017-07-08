@@ -116,6 +116,10 @@ say 'hello' -v Zarvox:
 mdfind 'something':
 ** APPLE SCRIPT **
 osascript -e <some command>:
+```
+
+## Bash Scripts
+```
 
 
 
