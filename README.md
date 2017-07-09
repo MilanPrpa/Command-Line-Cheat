@@ -120,6 +120,6 @@ osascript -e <some command>:
 
 ## Bash Scripts
 ```
-
+ping
 
 
