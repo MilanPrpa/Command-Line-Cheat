@@ -121,5 +121,9 @@ osascript -e <some command>:
 ## Bash Scripts
 ```
 ping
+** variables **
+  a=hello
+  echo $a; this will return the variable.
+
 
 
