@@ -34,7 +34,7 @@ cp: copy. cp <file> <newfilename>
   -v: verbose
 rm: only removes file, completely.
 rmdir: remove directory. Only remove directories that are empty.
-rm -R: remove non empty directories. Really powerful.
+rm -rf: remove non empty directories. Really powerful.
 Search Files & Directories:
   (find path expression)===> find ~/Desktop <name>
 whoami: indicates who the user is.
