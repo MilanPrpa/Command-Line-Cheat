@@ -7,6 +7,7 @@ cd: change directory
 open -a 'google chrome' <browser>: opens browser from terminal.
 touch: used to create file.
 ** MOVING AND COPYING FILES **
+EXAMPLE TO DIFFERENT FOLDER: mv underscore-master ~/Documents
 mv(or cp) <file name> <folder name>: this works in the directory you are currently in.
 mv(or cp) <file name> ~/<other directory>/folder: this moves to another directory outside your current directory.
 echo $0: shows what shell you are using.
